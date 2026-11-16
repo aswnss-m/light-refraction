@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-label="Light refraction lab. A white ray enters a glass cylinder and leaves as a fan of colours.">
+  <rect width="1280" height="360" fill="#0b0d12"/>
+  <g fill="none" stroke-width="5" stroke-linecap="round">
+    <path d="M319.1 167.5 1059 360" stroke="#ff5a4d"/>
+    <path d="M319.1 167.5 983 360" stroke="#ffb347"/>
+    <path d="M319.1 167.5 921 360" stroke="#5fd068"/>
+    <path d="M319.1 167.5 869 360" stroke="#4c82ff"/>
+    <path d="M319.1 167.5 826 360" stroke="#8f6bff"/>
+    <path d="M0 140H149.4L319.1 167.5" stroke="#fff"/>
+  </g>
+  <circle cx="230" cy="180" r="90" fill="#4c82ff" fill-opacity=".15" stroke="#4c82ff" stroke-width="4"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="420" y="112" font-size="60" font-weight="700" fill="#fff">Light refraction lab</text>
+    <text x="422" y="156" font-size="23" fill="#9aa3b8">Trace light through glass with measured dispersion,</text>
+    <text x="422" y="188" font-size="23" fill="#9aa3b8">Snell's law and Fresnel reflection.</text>
+  </g>
+</svg>

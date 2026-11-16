@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#e11d48"/>
-  <text x="32" y="32" dy="0.35em" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="26" font-weight="600" fill="#ffffff">LR</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Light refraction lab logo">
+  <rect width="128" height="128" rx="28" fill="#0b0d12"/>
+  <g fill="none" stroke-width="5" stroke-linecap="round">
+    <path d="M89.7 60.3 120 67" stroke="#ff5a4d"/>
+    <path d="M89.7 60.3 120 74" stroke="#5fd068"/>
+    <path d="M89.7 60.3 120 81" stroke="#8f6bff"/>
+    <path d="M8 52H40.9L89.7 60.3" stroke="#fff"/>
+  </g>
+  <circle cx="64" cy="64" r="26" fill="#4c82ff" fill-opacity=".18" stroke="#4c82ff" stroke-width="4"/>
 </svg>
